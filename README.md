@@ -1,15 +1,14 @@
 # ELTEMATE Advisor Demo
 
-A portfolio-ready legal technology project tailored to the **Advanced Client Data Solutions Technology and Analytics Advisor** role at ELTEMATE. It demonstrates how I would approach a defensible technology workflow for litigation support, eDiscovery analytics, TAR-style prioritization, privilege escalation, QC sampling, and matter-level reporting.
+A portfolio-ready legal technology project - demonstrates how I would approach a defensible technology workflow for litigation support, eDiscovery analytics, TAR-style prioritization, privilege escalation, QC sampling, and matter-level reporting.
 
-## Why this project fits the role
-The ELTEMATE posting emphasizes:
+## Why this project 
 - advanced analytics and machine learning strategies for litigation workflows
 - eDiscovery best practices, including TAR protocols, validation, processing, and production
 - case-team communication, issue escalation, and defensible documentation
 - structured workflows, status reporting, and practical problem-solving
 
-This demo addresses those expectations with a transparent, explainable workflow rather than a black-box model.
+This demo addresses those skills with a transparent, explainable workflow rather than a black-box model.
 
 ## What the app does
 The Streamlit app loads a synthetic legal review set and then:
@@ -67,7 +66,7 @@ pytest
 - **Legal workflow alignment:** the project mirrors real review, escalation, and QC decisions
 - **Communication:** produces matter-level reporting suitable for attorneys, project managers, and vendors
 - **Practical ML posture:** prioritizes validation and explainability over novelty for novelty’s sake
-- **Role relevance:** directly reflects the ELTEMATE focus on analytics, TAR, ESI workflows, and litigation support
+- **Role relevance:** directly focus on analytics, TAR, ESI workflows, and litigation support
 
 ## Suggested GitHub repo name
 `legal-discovery-analytics-advisor-demo`
