@@ -1,6 +1,6 @@
  Demo
 
-A portfolio-ready legal technology project - demonstrates how I would approach a defensible technology workflow for litigation support, eDiscovery analytics, TAR-style prioritization, privilege escalation, QC sampling, and matter-level reporting.
+Legal technology project - demonstrates how I would approach a defensible technology workflow for litigation support, eDiscovery analytics, TAR-style prioritization, privilege escalation, QC sampling, and matter-level reporting.
 
 ## Why this project 
 - advanced analytics and machine learning strategies for litigation workflows
