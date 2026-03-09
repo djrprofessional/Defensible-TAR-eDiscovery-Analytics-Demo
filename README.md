@@ -162,12 +162,6 @@ Possible areas for extension include:
 
 
 
-Legal technologist focused on the intersection of:
-	•	Legal operations
-	•	Artificial intelligence
-	•	eDiscovery analytics
-	•	contract lifecycle automation
-	•	legal data engineering
 
 GitHub:
 https://github.com/djrprofessional
