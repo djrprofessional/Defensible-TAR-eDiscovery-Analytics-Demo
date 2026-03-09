@@ -1,5 +1,5 @@
-from src.eltemate_advisor_demo.analytics import classify_documents, compute_validation_summary
-from src.eltemate_advisor_demo.data import load_demo_data
+from src.advisor_demo.analytics import classify_documents, compute_validation_summary
+from src.advisor_demo.data import load_demo_data
 
 
 def test_classify_documents_creates_expected_columns():
