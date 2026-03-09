@@ -160,9 +160,7 @@ Possible areas for extension include:
 
 ⸻
 
-Author
 
-David J. Rosano
 
 Legal technologist focused on the intersection of:
 	•	Legal operations
