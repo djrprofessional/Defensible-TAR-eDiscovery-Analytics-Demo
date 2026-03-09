@@ -37,7 +37,7 @@ portfolio_project/
 ├── data/
 │   └── synthetic_review_set.csv
 ├── src/
-│   └── eltemate_advisor_demo/
+│   └── advisor_demo/
 │       ├── __init__.py
 │       ├── analytics.py
 │       ├── data.py
@@ -49,7 +49,7 @@ portfolio_project/
 ## Local setup
 ```bash
 git clone <your-repo-url>
-cd eltemate_portfolio_project
+cd portfolio_project
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
