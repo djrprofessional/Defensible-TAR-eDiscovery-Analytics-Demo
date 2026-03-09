@@ -2,19 +2,19 @@ from __future__ import annotations
 
 import streamlit as st
 
-from src.eltemate_advisor_demo.analytics import (
+from src.advisor_demo.analytics import (
     classify_documents,
     compute_validation_summary,
     dashboard_metrics,
     issue_breakdown,
     qc_sample,
 )
-from src.eltemate_advisor_demo.data import load_demo_data
-from src.eltemate_advisor_demo.reporting import build_report_text
+from src.advisor_demo.data import load_demo_data
+from src.advisor_demo.reporting import build_report_text
 
-st.set_page_config(page_title="ELTEMATE Advisor Demo", layout="wide")
+st.set_page_config(page_title="Advisor Demo", layout="wide")
 
-st.title("ELTEMATE Advanced Client Data Solutions Advisor Demo")
+st.title("Advanced Client Data Solutions Advisor Demo")
 st.caption(
     "Portfolio project inspired by the responsibilities of an Advanced Client Data Solutions "
     "Technology and Analytics Advisor: defensible analytics, TAR validation, workflow oversight, "
