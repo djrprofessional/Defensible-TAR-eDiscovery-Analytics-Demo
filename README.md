@@ -29,7 +29,7 @@ The Streamlit app loads a synthetic legal review set and then:
 
 ## Project structure
 ```text
-eltemate_portfolio_project/
+portfolio_project/
 ├── app.py
 ├── README.md
 ├── requirements.txt
@@ -61,7 +61,7 @@ streamlit run app.py
 pytest
 ```
 
-## Portfolio talking points for an employer
+## Portfolio talking points 
 - **Defensibility:** scoring logic is transparent and auditable
 - **Legal workflow alignment:** the project mirrors real review, escalation, and QC decisions
 - **Communication:** produces matter-level reporting suitable for attorneys, project managers, and vendors
